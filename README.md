@@ -6,6 +6,8 @@ reimplementation. It lives here, apart from OpenDash, because it redraws the gam
 
 **No original game files are here.** You still need your own copy of the game, as OpenDash asks.
 
+**Ready to play:** OpenDash with all these changes, the HD art and the language packs already inside: [kurerb/opendash releases](https://github.com/kurerb/opendash/releases/latest).
+
 ## Three downloads
 
 | | What | Where |
@@ -42,6 +44,8 @@ To remove it: delete the files it added under `assets/ui` (OpenDash goes back to
 Artes em HD feitas por Herbert Costa para o [OpenDash](https://github.com/mateuspina69/opendash). Ficam aqui, separadas
 do OpenDash, porque redesenham a arte do próprio jogo; o OpenDash funciona sem elas (fica a arte em pixel) e fica
 muito mais bonito com elas. **Nenhum arquivo original do jogo está aqui.**
+
+**Pronto para jogar:** o OpenDash com todas as mudanças, as artes em HD e os pacotes de idioma já dentro: [kurerb/opendash releases](https://github.com/kurerb/opendash/releases/latest).
 
 ## Três downloads
 
