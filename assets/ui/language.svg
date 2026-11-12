@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="10" height="10" viewBox="0 0 10 10">
+  <!-- OpenDash: the language row's globe (white: drawn tinted with the row's text colour) -->
+  <g fill="none" stroke="#ffffff" stroke-width="0.85" stroke-linecap="round">
+    <circle cx="5" cy="5" r="4.2"/>
+    <ellipse cx="5" cy="5" rx="1.85" ry="4.2"/>
+    <path d="M0.8 5 H9.2"/>
+    <path d="M1.55 2.7 H8.45"/>
+    <path d="M1.55 7.3 H8.45"/>
+  </g>
+</svg>

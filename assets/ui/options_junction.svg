@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="16" viewBox="0 0 80 16">
+<!-- The options page's corner pieces where its two frames meet (game/status_options optionsValuesDraw: SUBSCN06 page 7,
+     clut 0x7f12, 32 + 16 + 32 x 16 at (0x10, 0x94)), transcribed from their pixel art as the frames are (app/ui/vector_ui
+     frameSvg style 2): the green frame's left side running down (outline 2, band 8, shade 1, the light inside), and on
+     the right the upper panel's bottom edge turning down into the left column's right side with 45-degree corners. -->
+<path d="M11 0 L80 0 L80 3 L58.5 3 L55 6.5 L55 16 L11 16 Z" fill="#b0e8a8"/>
+<path d="M80 3 L58.5 3 L55 6.5 L55 16 L56 16 L56 6.5 L58.5 4 L80 4 Z" fill="#68a078"/>
+<path d="M80 4 L58.5 4 L56 6.5 L56 16 L62 16 L62 8.5 L65.5 5 L80 5 Z" fill="#489070"/>
+<path d="M80 5 L65.5 5 L62 8.5 L62 16 L64 16 L64 9.5 L66.5 7 L80 7 Z" fill="#304858"/>
+<rect x="0" y="0" width="2" height="16" fill="#304858"/>
+<rect x="2" y="0" width="8" height="16" fill="#489070"/>
+<rect x="10" y="0" width="1" height="16" fill="#68a078"/>
+</svg>
