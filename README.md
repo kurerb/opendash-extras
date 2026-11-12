@@ -19,6 +19,12 @@ reimplementation. It lives here, apart from OpenDash, because it redraws the gam
 Download the zip from the Releases page, unzip it inside your OpenDash folder (the one with `opendash.exe`) and run
 `install.bat`. Or copy the `assets` folder next to `opendash.exe` yourself, merging it with the one already there.
 
+## Coming later
+
+There is more HD material made for this version: the Extras albums (official art, books and manuals), the HD logos,
+the HD mission banners and the menu backdrop. It is not here yet because I'm still working out the best way to make
+it available. It will be announced here.
+
 ---
 
 # OpenDash extras: artes em HD para Mega Man Legends 2
@@ -29,3 +35,7 @@ bonito com elas. **Nenhum arquivo original do jogo está aqui.**
 
 **Instalar:** baixe o zip na página Releases, descompacte dentro da pasta do OpenDash (a do `opendash.exe`) e rode o
 `install.bat`. Ou copie a pasta `assets` para a pasta do `opendash.exe`, juntando com a que já existe.
+
+**Em breve:** há mais material em HD feito para esta versão (os álbuns dos Extras com arte oficial, livros e manuais,
+os logos em HD, as faixas de missão em HD e o fundo dos menus). Ainda não está aqui porque estou pensando na melhor
+forma de disponibilizar; vou avisar aqui quando estiver.
