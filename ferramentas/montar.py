@@ -22,7 +22,7 @@ NUNCA = ["snd", "snd_restored", "sfx", "*.vcdiff", "manifest.json", "*.bak", "*.
 SO_LEGENDAS = {"en", "jp"}
 
 # as artes em HD (assets/ui da pasta de código); a fonte e os textos dos menus vão pelo código (PRs)
-ARTES = ["credits", "flags", "title", "dualshock.svg", "language.svg", "options_junction.svg", "hand_fill.png", "hand_edge.png"]
+ARTES = ["icons", "credits", "flags", "title", "dualshock.svg", "language.svg", "options_junction.svg", "hand_fill.png", "hand_edge.png"]
 # ainda sem aprovação do Herbert (logo da CAPCOM: marca registrada, decidir antes)
 FORA_POR_ENQUANTO = ["capcom_logo.svg"]
 # nunca vão (uso pessoal do Herbert: arte oficial, escaneados, imagens baixadas): assets/ui/extras, assets/ui/gallery,

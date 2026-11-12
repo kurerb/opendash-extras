@@ -11,6 +11,7 @@ reimplementation. It lives here, apart from OpenDash, because it redraws the gam
 | `assets/ui/title/` | the title menu's words in each language (new game, continue, tutorial, options, extras), in the menu's yellow style |
 | `assets/ui/credits/` | the staff roll's pages in HD |
 | `assets/ui/flags/` | the language flags of Options > Language |
+| `assets/ui/icons/` | the 14 item icons of the menus, redrawn as vector art |
 | `assets/ui/language.svg`, `options_junction.svg`, `dualshock.svg` | the globe of the language row, the options page's frame corner, the controller of the key configuration |
 | `assets/ui/hand_fill.png`, `hand_edge.png` | the selection hand in HD (every pointing-hand cursor), painted in the text colours |
 
